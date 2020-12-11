@@ -25,3 +25,5 @@
 | [clearquote](https://clearquote.io/)              | Vehicle damage analysis                                      |
 | [nexartglobal](https://nexartglobal.com/)         | Visual recognition                                           |
 | [visionbot](https://visionbot.io/)                | Video Analytics                                              |
+| [KoiReader](https://www.koireader.com/)           | Edge Computing Platform for Maritime, Transportation, Logistics, Trade & Supply Chain industries|
+
